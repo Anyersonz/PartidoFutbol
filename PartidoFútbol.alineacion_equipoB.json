@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "67394f3046847b2bbbedbe17"
+  },
+  "portero": "Camilo Vargas"
+},
+{
+  "_id": {
+    "$oid": "67394f3046847b2bbbedbe18"
+  },
+  "defensa": "Daniel Muñoz"
+},
+{
+  "_id": {
+    "$oid": "67394f3046847b2bbbedbe19"
+  },
+  "defensa": "Davinson Sanchez"
+},
+{
+  "_id": {
+    "$oid": "67394f3046847b2bbbedbe1a"
+  },
+  "defensa": "Jhon Janer Lucumi"
+},
+{
+  "_id": {
+    "$oid": "67394f3046847b2bbbedbe1b"
+  },
+  "defensa": "Johan Mojica"
+},
+{
+  "_id": {
+    "$oid": "6739505246847b2bbbedbe1f"
+  },
+  "volante": "Richard Rios"
+},
+{
+  "_id": {
+    "$oid": "6739505246847b2bbbedbe20"
+  },
+  "volante": "Juan Camilo Portilla"
+},
+{
+  "_id": {
+    "$oid": "6739505246847b2bbbedbe21"
+  },
+  "volante": "Jhon Arias"
+},
+{
+  "_id": {
+    "$oid": "6739505246847b2bbbedbe22"
+  },
+  "volante": "Juan Fernando Quintero"
+},
+{
+  "_id": {
+    "$oid": "6739505246847b2bbbedbe23"
+  },
+  "volante": "Luis Diaz"
+},
+{
+  "_id": {
+    "$oid": "6739505246847b2bbbedbe24"
+  },
+  "delantero": "Jhon Jader Duran"
+},
+{
+  "_id": {
+    "$oid": "6739505246847b2bbbedbe25"
+  },
+  "DT": "Nestor Lorenzo"
+}]

@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "67393fa046847b2bbbedbdb0"
+  },
+  "nombre_arbitro": "Kevin Ortega",
+  "edad": "32",
+  "nacionalidad": "Peruano"
+},
+{
+  "_id": {
+    "$oid": "673a1dd730f791c19fe5f9b4"
+  },
+  "nombre_arbitro": "Kevin",
+  "edad": 32
+}]

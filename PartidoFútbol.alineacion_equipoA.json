@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "673948c646847b2bbbedbdfa"
+  },
+  "arquero": "Sergio Rochet"
+},
+{
+  "_id": {
+    "$oid": "67394cb946847b2bbbedbe05"
+  },
+  "defensa": "Nahitan Nández"
+},
+{
+  "_id": {
+    "$oid": "67394cb946847b2bbbedbe06"
+  },
+  "defensa": "José Maria Gimenez"
+},
+{
+  "_id": {
+    "$oid": "67394cb946847b2bbbedbe07"
+  },
+  "defensa": "Mathias Olivera"
+},
+{
+  "_id": {
+    "$oid": "67394cb946847b2bbbedbe08"
+  },
+  "defensa": "Marcelo Saracchi"
+},
+{
+  "_id": {
+    "$oid": "67394dce46847b2bbbedbe0a"
+  },
+  "volante": "Rodrigo Bentancur"
+},
+{
+  "_id": {
+    "$oid": "67394dce46847b2bbbedbe0b"
+  },
+  "volante": "Federico Valverde"
+},
+{
+  "_id": {
+    "$oid": "67394dce46847b2bbbedbe0c"
+  },
+  "volante": "Facundo Pellistri"
+},
+{
+  "_id": {
+    "$oid": "67394dce46847b2bbbedbe0d"
+  },
+  "volante": "Rodrigo Aguirre"
+},
+{
+  "_id": {
+    "$oid": "67394dce46847b2bbbedbe0e"
+  },
+  "volante": "Maximiliano Araujo"
+},
+{
+  "_id": {
+    "$oid": "67394e4146847b2bbbedbe10"
+  },
+  "delantero": "Darwin Nuñes"
+},
+{
+  "_id": {
+    "$oid": "67394e4146847b2bbbedbe11"
+  },
+  "DT": "Marcelo Bielsa"
+}]

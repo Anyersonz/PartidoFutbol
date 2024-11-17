@@ -1,0 +1,9 @@
+[{
+  "_id": {
+    "$oid": "6739407246847b2bbbedbdb3"
+  },
+  "fecha": "15/11/2024",
+  "hora": "19:00",
+  "ciudad": "Montevideo",
+  "estadio": "Centenario"
+}]
