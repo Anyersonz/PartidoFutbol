@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "673951fa46847b2bbbedbe34"
+  },
+  "equipo": "Uruguay",
+  "partidos_jugados": "11",
+  "empates": "4",
+  "perdidos": "2",
+  "puntos": "19",
+  "posicion": "2"
+}]
